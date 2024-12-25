@@ -36,7 +36,7 @@ Welcome to **Smarald X**, the ultimate Roblox exploit executor. Designed for bot
 
 ## 🚀 Getting Started
 
-1. **Download Smarald X**: [Click here to download](#)  
+1. **Download Smarald X**: [Click here to download]([#](https://github.com/FoarteBine/SmaraldX/releases))  
 2. **Extract the Portable Version**: No installation required, just unzip and run.
 3. **Launch and Execute**: Open Smarald X and start running your favorite scripts.
 
