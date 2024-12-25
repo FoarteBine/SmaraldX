@@ -44,7 +44,7 @@ Welcome to **Smarald X**, the ultimate Roblox exploit executor. Designed for bot
 
 ## 💬 Support
 
-If you encounter any issues or have suggestions for improvement, feel free to open an [issue](https://github.com/your-repo/issues) or contact us directly.
+If you encounter any issues or have suggestions for improvement, feel free to open an [issue]([https://github.com/FoarteBine/SmaraldX/issues]) or contact us directly.
 
 ---
 
