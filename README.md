@@ -1,6 +1,7 @@
 # Smarald X - Roblox Exploit Executor
 
-![image](https://github.com/user-attachments/assets/9bc7e3cf-ecee-4059-b296-c9595e784d13)
+![image](https://github.com/user-attachments/assets/eee0748c-5e05-4c6a-9643-0c1937f55036)
+
 
 Welcome to **Smarald X**, the ultimate Roblox exploit executor. Designed for both power and simplicity, Smarald X offers unmatched performance and user experience for executing your favorite scripts effortlessly.
 
