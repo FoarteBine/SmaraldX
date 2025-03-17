@@ -1,4 +1,5 @@
 # Smarald X - Roblox Exploit Executor
+## ⚠️!!ALL WINDOWS EXECUTORS IS NOT SAFE!!⚠️
 
 ![image](https://github.com/user-attachments/assets/eee0748c-5e05-4c6a-9643-0c1937f55036)
 
