@@ -52,10 +52,4 @@ Need help or have feature requests? Join our growing community:
 
 ---
 
-## 📜 **License**
-
-Smarald X is open-source under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 🎮 **Elevate Your Roblox Experience with Smarald X v2.0!** 🚀
