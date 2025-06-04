@@ -1,6 +1,5 @@
+## ⚠️ **Warning: Using cheats, you're get 100% ban!** ⚠️
 # Smarald X v2.0 - Ultimate Roblox Exploit Executor
-
-## ⚠️ **Warning: No Windows Executor is 100% Safe!** ⚠️
 
 ![Smarald X](https://github.com/user-attachments/assets/eee0748c-5e05-4c6a-9643-0c1937f55036)
 
