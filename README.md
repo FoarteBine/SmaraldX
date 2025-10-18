@@ -27,8 +27,8 @@ Welcome to **Smarald X v2.0**, the next-gen Roblox exploit executor! Built for p
 ### 📥 **One-Click Download & Setup**
 - No installations, no bloat—just extract and run!
 
-### ☁️ **Cloudy API Integration**
-- Leveraging the powerful Cloudy API for seamless execution.
+### ☁️ **Xeno API Integration**
+- Leveraging the powerful Xeno API for seamless execution.
 
 ### 📝 **Advanced Code Editor**
 - Built-in script editor with syntax highlighting, autocomplete, and more.
